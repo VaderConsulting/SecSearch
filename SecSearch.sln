@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Service", "Service\Service.vbproj", "{5C3B7CB3-E97B-40A1-84D2-9F1321A9C7F0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Personal", "Personal\Personal.vbproj", "{25DB2BC4-3597-4507-9176-4BDB5F8319B3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5C3B7CB3-E97B-40A1-84D2-9F1321A9C7F0}.Debug.ActiveCfg = Debug|.NET
+		{5C3B7CB3-E97B-40A1-84D2-9F1321A9C7F0}.Debug.Build.0 = Debug|.NET
+		{5C3B7CB3-E97B-40A1-84D2-9F1321A9C7F0}.Release.ActiveCfg = Release|.NET
+		{5C3B7CB3-E97B-40A1-84D2-9F1321A9C7F0}.Release.Build.0 = Release|.NET
+		{25DB2BC4-3597-4507-9176-4BDB5F8319B3}.Debug.ActiveCfg = Debug|.NET
+		{25DB2BC4-3597-4507-9176-4BDB5F8319B3}.Debug.Build.0 = Debug|.NET
+		{25DB2BC4-3597-4507-9176-4BDB5F8319B3}.Release.ActiveCfg = Release|.NET
+		{25DB2BC4-3597-4507-9176-4BDB5F8319B3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
