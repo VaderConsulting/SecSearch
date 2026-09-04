@@ -11,6 +11,11 @@ VB.NET WinForms scanner that walks a path for `*.doc` files, opens Word, reads s
 
 Open `SecSearch.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio .NET 2003
+- .NET Framework 1.1
+
 ## License
 
 MIT License. Copyright (c) 2026 VaderConsulting. See `LICENSE`.
