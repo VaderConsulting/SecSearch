@@ -7,6 +7,12 @@ VB.NET WinForms scanner that walks a path for `*.doc` files, opens Word, reads s
 **Target:** Visual Studio 2003 (solution format 8.00)  
 **Output:** WinExe + Windows service stub
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+| --- | --- | --- | --- |
+| see tree | see tree | see tree | Repository contents |
+
 ## How to open
 
 Open `SecSearch.sln` in Visual Studio.
@@ -15,6 +21,10 @@ Open `SecSearch.sln` in Visual Studio.
 
 - Visual Studio .NET 2003
 - .NET Framework 1.1
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder.
 
 ## License
 
