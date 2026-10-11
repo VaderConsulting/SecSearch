@@ -28,4 +28,4 @@ Working copy from my Historical Dev folder.
 
 ## License
 
-MIT License. Copyright (c) 2026 VaderConsulting. See `LICENSE`.
+MIT License. Copyright (c) 2026 Vader Consulting. See `LICENSE`.
